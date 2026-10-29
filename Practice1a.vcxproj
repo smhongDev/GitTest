@@ -167,10 +167,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="cadfaf.cpp" />
     <ClCompile Include="Cdalfadsf.cpp" />
     <ClCompile Include="Practice1a.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="cadfaf.h" />
     <ClInclude Include="Cdalfadsf.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
